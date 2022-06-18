@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ScottKnott"]
+	path = ScottKnott
+	url = https://github.com/jcfaria/scottknott
+	shallow = true
+	registered = true
+[submodule "TukeyC"]
+	path = TukeyC
+	url = https://github.com/jcfaria/tukeyc
+	shallow = true
+	registered = true
