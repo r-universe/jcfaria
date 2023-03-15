@@ -1,5 +1,13 @@
 [
   {
+    "package": "bpca",
+    "oncran": true
+  },
+  {
+    "package": "fdth",
+    "oncran": true
+  },
+  {
     "package": "ScottKnott",
     "oncran": true
   },
