@@ -13,11 +13,6 @@
 	url = https://github.com/jcfaria/fdth
 	shallow = true
 	registered = true
-[submodule "ScottKnott"]
-	path = ScottKnott
-	url = https://github.com/jcfaria/scottknott
-	shallow = true
-	registered = true
 [submodule "TukeyC"]
 	path = TukeyC
 	url = https://github.com/jcfaria/tukeyc
