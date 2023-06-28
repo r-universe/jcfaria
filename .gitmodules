@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bpca"]
 	path = bpca
 	url = https://github.com/jcfaria/bpca
-	shallow = true
-	registered = true
 [submodule "fdth"]
 	path = fdth
 	url = https://github.com/jcfaria/fdth
-	shallow = true
-	registered = true
 [submodule "TukeyC"]
 	path = TukeyC
 	url = https://github.com/jcfaria/tukeyc
-	shallow = true
-	registered = true
