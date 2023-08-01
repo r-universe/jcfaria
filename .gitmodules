@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "TukeyC"]
+	path = TukeyC
+	url = https://github.com/jcfaria/tukeyc
 [submodule "bpca"]
 	path = bpca
 	url = https://github.com/jcfaria/bpca
 [submodule "fdth"]
 	path = fdth
 	url = https://github.com/jcfaria/fdth
-[submodule "TukeyC"]
-	path = TukeyC
-	url = https://github.com/jcfaria/tukeyc
