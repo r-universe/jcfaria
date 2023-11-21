@@ -5,6 +5,9 @@
 [submodule "TukeyC"]
 	path = TukeyC
 	url = https://github.com/jcfaria/tukeyc
+[submodule "bpca"]
+	path = bpca
+	url = https://github.com/jcfaria/bpca
 [submodule "fdth"]
 	path = fdth
 	url = https://github.com/jcfaria/fdth
